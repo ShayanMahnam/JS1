@@ -48,7 +48,7 @@
 
 // let myName = "Shayan";
 // let greeting = "Hello";
-// let combinedString = `${greeting}+${myName}`;
+// let combinedString = `${greeting} ${myName}`;
 // console.log(combinedString);
 
 // let numberOfTrainees = 23;
